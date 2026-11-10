@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://edenprairiehvac.com/sitemap.xml
